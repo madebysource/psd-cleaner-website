@@ -1,19 +1,19 @@
 module.exports = {
-  analytics: 'UA-XXXXX-X',
+  analytics: 'UA-5463802-55',
 
-  description: '',
-  author: '',
+  description: 'Photoshop Plugin that lets you easily find and fix messy layers in your PSDs.',
+  author: 'Source Ltd.',
   keywords: '',
 
-  'og:url': '',
-  'og:image': '',
+  'og:url': 'http://psdcleaner.com/',
+  'og:image': 'http://psdcleaner.com/images/icon.png',
   'og:type': '',
-  'og:site_name': '',
+  'og:site_name': 'PSD Cleaner',
 
-  'twitter:title': '',
-  'twitter:url': '',
-  'twitter:image': '',
+  'twitter:title': 'PSD Cleaner',
+  'twitter:url': 'http://psdcleaner.com/',
+  'twitter:image': 'http://psdcleaner.com/images/icon.png',
   'twitter:card': '',
   'twitter:site': '',
-  'twitter:creator': ''
+  'twitter:creator': 'Source'
 };
