@@ -6,13 +6,13 @@ module.exports = {
   keywords: '',
 
   'og:url': 'http://psdcleaner.com/',
-  'og:image': 'http://psdcleaner.com/images/icon.png',
+  'og:image': 'http://psdcleaner.com/images/plugin-ui.png',
   'og:type': '',
   'og:site_name': 'PSD Cleaner',
 
   'twitter:title': 'PSD Cleaner',
   'twitter:url': 'http://psdcleaner.com/',
-  'twitter:image': 'http://psdcleaner.com/images/icon.png',
+  'twitter:image': 'http://psdcleaner.com/images/plugin-ui.png',
   'twitter:card': '',
   'twitter:site': '',
   'twitter:creator': 'Source'
